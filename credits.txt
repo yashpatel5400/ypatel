@@ -1,0 +1,28 @@
+======================================================================
+	Photos 
+======================================================================
+
+https://www.pexels.com/photo/working-in-a-group-6224/
+https://www.pexels.com/photo/working-in-a-group-6224/
+https://www.pexels.com/photo/meeting-pencils-macbook-notebooks-40120/
+https://www.pexels.com/photo/woman-person-macbook-laptop-7355/
+https://www.pexels.com/photo/person-using-black-and-white-smartphone-and-holding-blue-card-230544/
+
+
+======================================================================
+	Logos 
+======================================================================
+http://www.freepik.com/free-vector/pack-of-four-abstract-colored-logos_1020489.htm
+http://www.freepik.com/free-vector/logo-template-design_1047048.htm
+http://www.freepik.com/free-vector/gold-and-black-logo-with-geometric-shapes_1042166.htm
+http://www.freepik.com/free-vector/real-estate-logo-template_840045.htm
+
+
+======================================================================
+	Plugins
+======================================================================
+https://github.com/themicon/smoothscroll
+https://owlcarousel2.github.io/OwlCarousel2/index.html
+https://jqueryvalidation.org/
+https://github.com/lokesh/lightbox2
+https://github.com/pixelsign/html5-device-mockups
