@@ -734,20 +734,20 @@ section.testimonials .owl-dots .owl-dot span {
 section.testimonials .owl-dots .owl-dot.active span {
   background: #9055A2;
 }
-section.divider {
+section.contact {
   background-image: -moz-linear-gradient(-39deg, #be73be 0%, #9055A2 100%);
   background-image: -webkit-linear-gradient(-39deg, #be73be 0%, #9055A2 100%);
 }
-section.divider h2,
-section.divider p {
+section.contact h2,
+section.contact p {
   color: #fff;
 }
-section.divider a {
+section.contact a {
   color: #9055A2;
   background: #fff;
   border: 2px solid #fff;
 }
-section.divider a:hover {
+section.contact a:hover {
   border: 2px solid #fff;
   background: none;
 }
